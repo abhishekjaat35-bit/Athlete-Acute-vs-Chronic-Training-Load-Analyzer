@@ -1,0 +1,30 @@
+========================================================================
+          ATHLETE ACUTE VS CHRONIC TRAINING LOAD ANALYZER
+========================================================================
+
+Then the training-load table.
+Because there are only 10 sessions per athlete:
+
+Athlete  Date        Training_Load  Acute_Load_7  Chronic_Load_28  Load_Status
+Rahul    2026-07-01  300            N/A           N/A              Insufficient Baseline
+Rahul    2026-07-02  340            N/A           N/A              Insufficient Baseline
+...
+Rahul    2026-07-07  350            2640.0        N/A              Insufficient Baseline
+...
+
+The program will also produce:
+
+ATHLETE TRAINING LOAD SUMMARY
+with approximately:
+
+Athlete  Sessions  Total_Load  Average_Load  Maximum_Load  Minimum_Load
+Arjun         10        5150         515.0           600           400
+Priya         10        3720         372.0           450           280
+Rahul         10        3900         390.0           460           300
+Vikram        10        3300         330.0           400           250
+
+And:
+
+LOAD RATIO SUMMARY
+
+Insufficient data for ratio calculation.
