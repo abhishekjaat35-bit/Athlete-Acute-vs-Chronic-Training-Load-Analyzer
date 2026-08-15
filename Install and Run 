@@ -1,0 +1,8 @@
+Install and run
+
+In your project folder:
+pip install pandas matplotlib
+
+Then:
+python athlete_acute_chronic_load.py
+You should see the program run and create the output files.
