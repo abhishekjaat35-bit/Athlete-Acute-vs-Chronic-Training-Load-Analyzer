@@ -1,0 +1,53 @@
+Athlete,Date,Training_Load
+Rahul,2026-07-01,300
+Rahul,2026-07-02,340
+Rahul,2026-07-03,380
+Rahul,2026-07-04,420
+Rahul,2026-07-05,450
+Rahul,2026-07-06,400
+Rahul,2026-07-07,350
+Rahul,2026-07-08,380
+Rahul,2026-07-09,420
+Rahul,2026-07-10,460
+Arjun,2026-07-01,400
+Arjun,2026-07-02,450
+Arjun,2026-07-03,500
+Arjun,2026-07-04,550
+Arjun,2026-07-05,600
+Arjun,2026-07-06,520
+Arjun,2026-07-07,480
+Arjun,2026-07-08,500
+Arjun,2026-07-09,550
+Arjun,2026-07-10,600
+Vikram,2026-07-01,250
+Vikram,2026-07-02,280
+Vikram,2026-07-03,320
+Vikram,2026-07-04,350
+Vikram,2026-07-05,380
+Vikram,2026-07-06,340
+Vikram,2026-07-07,300
+Vikram,2026-07-08,320
+Vikram,2026-07-09,360
+Vikram,2026-07-10,400
+Priya,2026-07-01,280
+Priya,2026-07-02,320
+Priya,2026-07-03,360
+Priya,2026-07-04,400
+Priya,2026-07-05,450
+Priya,2026-07-06,380
+Priya,2026-07-07,330
+Priya,2026-07-08,360
+Priya,2026-07-09,400
+Priya,2026-07-10,440
+
+
+Important
+
+This dataset contains only 10 observations per athlete, while the chronic calculation requires 28 observations.
+
+Therefore the first 27 observations for each athlete will correctly show:
+
+Insufficient Baseline
+
+That is actually useful because it teaches an important data-analysis principle:
+You cannot calculate a 28-session chronic reference without enough historical observations.
